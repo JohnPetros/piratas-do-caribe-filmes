@@ -44,6 +44,7 @@ Aplicativo multi-tela com o tema Piratas do Caribe que exibe informações a res
 
 - Navegação por tela
 - Exibição das imformações referentes a cada filme (título, imagem e sinopse)
+<hr>
 
 ## 📖 Aprendizado
 
@@ -54,6 +55,7 @@ Aplicativo multi-tela com o tema Piratas do Caribe que exibe informações a res
 - Design adaptado voltado telas menores,
 - Eventos de clique,
 - Efeito de sombra em textos,
+<hr>
 
 ## 🚀 Tecnologias
 
