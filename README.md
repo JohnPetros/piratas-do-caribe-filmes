@@ -35,8 +35,8 @@ Aplicativo multi-tela com o tema Piratas do Caribe que exibe informações a res
 
 ### Demonstração
 <div align="center">
-    <img alt="piratas-do-caribe-foto-1" src=".github/piratas-do-caribe-1.jpg"  />
-    <img alt="piratas-do-caribe-foto-2" src=".github/piratas-do-caribe-2.jpg"  />
+    <img width="250" alt="piratas-do-caribe-foto-1" src=".github/piratas-do-caribe-1.jpg"  />
+    <img width="250" alt="piratas-do-caribe-foto-2" src=".github/piratas-do-caribe-2.jpg"  />
 </div>
 <hr>
 
