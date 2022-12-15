@@ -35,8 +35,8 @@ Aplicativo multi-tela com o tema Piratas do Caribe que exibe informações a res
 
 ### Demonstração
 <div align="center">
-    <img alt="piratas-do-caribe-foto-1" src=".github/piratas-do-caribe-1.png"  />
-    <img alt="piratas-do-caribe-foto-2" src=".github/piratas-do-caribe-2.png"  />
+    <img alt="piratas-do-caribe-foto-1" src=".github/piratas-do-caribe-1.jpg"  />
+    <img alt="piratas-do-caribe-foto-2" src=".github/piratas-do-caribe-2.jpg"  />
 </div>
 <hr>
 
@@ -82,7 +82,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone  https://github.com/JohnPetros/nlw-copa.git
+$ git clone  https://github.com/JohnPetros/piratas-do-caribe-filmes.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd piratas-do-caribe-filmes
