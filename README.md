@@ -31,7 +31,7 @@
 
 ## 🖥️ Projeto
 
-Aplicativo multi-tela com o tema Piratas do Caribe que exibe informações a respeito dos 5 filmes da franquia. Projeto desenvolvido como tarefa para matéria de Programação Mobile na Etec
+Aplicativo multi-tela com o tema Piratas do Caribe que exibe informações a respeito dos 5 filmes da franquia. Primeiro projeto desenvolvido como tarefa para matéria de Programação Mobile na Etec
 
 ### Demonstração
 <div align="center">
