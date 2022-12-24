@@ -18,17 +18,6 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/piratas-do-caribe-filmes?style=social">
 </div>
 
-<br>
-
-<p align="center">
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
-</p>
-
 ## 🖥️ Projeto
 
 Aplicativo multi-tela com o tema Piratas do Caribe que exibe informações a respeito dos 5 filmes da franquia. Primeiro projeto desenvolvido como tarefa para matéria de Programação Mobile na Etec
@@ -78,7 +67,7 @@ Antes de baixar o projeto você vai precisar ter instalado na sua máquina as se
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)<br>4
 
-> Você poder executar o App no seu celular ou em um emulador de celular da sua preferência usando Expo.
+> Você poder executar o App no seu celular ou em um emulador de celular da sua preferência usando Expo acessando este link: [expo.dev](https://snack.expo.dev/@joaopcarvalho/github.com-johnpetros-piratas-do-caribe-filmes).
 
 #### 📟 Rodando o Mobile
 
